@@ -1,0 +1,22 @@
+Array Name: arr
+Index 0 : 
+Index 1 : 2
+Index 2 : 3
+Index 3 : 4
+-----------------------------
+
+Array Name: arr1
+Index 0 : 1
+Index 1 : 2
+Index 2 : 3
+-----------------------------
+
+Array Name: hitesh
+Index 0 : fdgdf
+Index 1 : 46546
+-----------------------------
+
+Array Name: Hitesh
+Index 0 : 4646
+Index 1 : 1231
+-----------------------------
